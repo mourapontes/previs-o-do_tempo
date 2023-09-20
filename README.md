@@ -1,7 +1,7 @@
 
 # Projeto Clima-App
 
-Este é  o projeto Clima-App, uma página de status do tempo desenvolvida utilizando a API OpenWeatherMap. Neste projeto, criamos uma página simples e responsiva que permite aos usuários buscar a previsão do tempo de uma cidade e exibe informações como temperatura, velocidade do vento e condições do céu.
+Este é  o projeto Clima-App, uma página de status do tempo desenvolvida utilizando a API OpenWeatherMap. Neste projeto, criei uma página simples e responsiva que permite aos usuários buscar a previsão do tempo de uma cidade e exibe informações como temperatura, velocidade do vento e condições do céu.
 
 
 
