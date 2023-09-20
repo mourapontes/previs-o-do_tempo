@@ -31,7 +31,7 @@ h1 {
 
 .busca {
    
-    padding-top: 60px;
+    padding-top: 35px;
     display: flex;
     width: 300px;
     
@@ -103,10 +103,15 @@ h1 {
 }
 
 
-
-
+.temperatura{
+     margin: 10px;
+    color: #FFF;
+    font-size: 35px;
+    font-weight: bold;
+}
 
 .info {
+    justify-content: space-between;
     display: flex;
     width: 100%;
 }
@@ -120,21 +125,28 @@ h1 {
 }
 .tempTitulo,
 .ventoTitulo {
-    color: #777;
+    color: #4f4f52;
     font-size: 16px;
     margin-bottom: 5px;
+    font-weight: bold;
 }
 .tempInfo,
 .ventoInfo {
+    margin: 15px;
     color: #FFF;
-    font-size: 30px;
+    font-size: 18px;
     font-weight: bold;
+    
+}
+.tempInfo{
+    text-transform: capitalize;
 }
 .tempInfo sup {
     font-size: 15px;
     font-weight: normal;
 }
 .ventoInfo span {
+    
     font-size: 15px;
     font-weight: normal;
 }
@@ -156,12 +168,20 @@ h1 {
 }
 
 .aviso {
+    margin-top: 100px;
     color: #FFF;
     padding-top: 20px;
 }
 
 footer {
+    font-weight: bold;
     margin-top: 20px;
     color: #FFF;
     font-size: 13px;
+}
+
+
+footer a{
+    text-decoration: none;
+    color: #ffffff;
 }
