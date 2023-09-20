@@ -185,3 +185,32 @@ footer a{
     text-decoration: none;
     color: #ffffff;
 }
+
+
+@media (max-width: 400px){
+
+    .container{
+        height: 400px;
+        width: 350px;
+    }
+     .busca{
+        width: 280px;
+     }
+     .busca img{
+        width: 15px;
+     }
+     .busca button{
+        width: 47px;
+       
+     }
+     .temperatura{
+        font-size: 30px;
+     }
+     .titulo{
+        font-size: 20px;
+     }
+     .tempInfo{
+        font-size: 15px;
+     }
+
+}
