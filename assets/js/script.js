@@ -1,10 +1,11 @@
+require("dotenv").config
 document.querySelector('.busca').addEventListener('submit', async (event)=>{
     event.preventDefault();
 
     let input = document.querySelector('#searchInput').value;
     if(input !=='')
     {
-        clearInfo();
+        clearInfo();    
         showWarning('Carregando...')
         
 
