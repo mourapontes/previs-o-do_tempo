@@ -3,6 +3,7 @@
 
 Este é  o projeto Clima-App, uma página de status do tempo desenvolvida utilizando a API OpenWeatherMap. Neste projeto, criei uma página simples e responsiva que permite aos usuários buscar a previsão do tempo de uma cidade e exibe informações como temperatura, velocidade do vento e condições do céu.
 
+https://mourapontes.github.io/previs-o-do_tempo/
 
 
 ## Descrição do Projeto
