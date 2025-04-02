@@ -5,10 +5,6 @@ Este é  o projeto Clima-App, uma página de status do tempo desenvolvida utiliz
 
 
 
-
-https://github.com/aureliodeboa/Clima-app/assets/53971991/572e87e8-138b-4464-84d8-5457db401789
-
-
 ## Descrição do Projeto
 
 O Projeto Clima-App é uma aplicação web que utiliza a API OpenWeatherMap para fornecer informações status do tempo em tempo real para uma cidade específica. Os usuários podem inserir o nome da cidade na caixa de pesquisa e receberão informações atualizadas sobre o clima naquela localidade.
@@ -30,13 +26,6 @@ O Projeto Clima-App é uma aplicação web que utiliza a API OpenWeatherMap para
 
 Não é necessário instalação para este projeto. Basta abrir o arquivo `index.html` em um navegador da web para acessar a página de previsão do tempo.
 
-```bash
-# Clone o repositório (caso esteja utilizando um sistema de controle de versão)
-git clone https://github.com/aureliodeboa/Clima-app.git
-
-# Navegue até o diretório do projeto
-cd nome-do-repo
-```
 
 ## Como Usar
 
